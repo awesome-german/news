@@ -37,7 +37,6 @@ Check out the [German-English Dictionary App for Scientifically-Efficient Modern
 - [Focus](https://www.focus.de/) - News magazine covering current affairs.
 - [Taz (die tageszeitung)](https://taz.de/) - Left-leaning daily newspaper.
 - [Welt](https://www.welt.de/) - Conservative daily newspaper.
-- [Handelsblatt](https://www.handelsblatt.com/) - Leading German business newspaper.
 
 ### Regional News
 

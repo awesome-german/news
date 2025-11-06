@@ -37,7 +37,6 @@ Schauen Sie sich die [German-English Dictionary App für wissenschaftlich effizi
 - [Focus](https://www.focus.de/) - Nachrichtenmagazin für aktuelle Themen.
 - [Taz (die tageszeitung)](https://taz.de/) - Linksliberale Tageszeitung.
 - [Welt](https://www.welt.de/) - Konservative Tageszeitung.
-- [Handelsblatt](https://www.handelsblatt.com/) - Führende deutsche Wirtschaftszeitung.
 
 ### Regionale Nachrichten
 

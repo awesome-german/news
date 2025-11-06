@@ -37,7 +37,6 @@
 - [Focus](https://www.focus.de/) - 時事問題をカバーするニュース雑誌。
 - [Taz (die tageszeitung)](https://taz.de/) - 左派寄りの日刊紙。
 - [Welt](https://www.welt.de/) - 保守的な日刊紙。
-- [Handelsblatt](https://www.handelsblatt.com/) - ドイツを代表するビジネス新聞。
 
 ### 地方ニュース
 
