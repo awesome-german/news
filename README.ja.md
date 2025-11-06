@@ -47,7 +47,7 @@
 - [Stuttgarter Zeitung](https://www.stuttgarter-zeitung.de/) - シュトゥットガルトの地方ニュース。
 - [Rheinische Post](https://rp-online.de/) - デュッセルドルフとノルトライン＝ヴェストファーレン州のニュース。
 
-### ビジネス・金融
+### ビジネス金融
 
 - [Handelsblatt](https://www.handelsblatt.com/) - ドイツ最高峰のビジネス日刊紙。
 - [Wirtschaftswoche](https://www.wiwo.de/) - ビジネスと金融の週刊誌。
@@ -95,7 +95,7 @@
 - [News in Slow German](https://www.newsinslowgerman.com/) - 学習者向けの週刊ニュースポッドキャスト。
 - [German-English Dictionary App](https://german-english-dictionary.devtheworld.jp/) - 科学的に効率的な現代学習のために。
 
-## ポッドキャスト・音声ニュース
+## ポッドキャスト音声ニュース
 
 ドイツのニュースポッドキャストと音声コンテンツ：
 
