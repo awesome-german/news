@@ -6,6 +6,15 @@ Check out the [German-English Dictionary App for Scientifically-Efficient Modern
 
 *Read this in other languages: [English](README.md), [Deutsch](README.de.md), [日本語](README.ja.md)*
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**histbak**](https://github.com/didvc/histbak) — Scheduled, compressed, optionally encrypted backups of your browsing history, plus a viewer that makes it readable. Local only, no network access…
+- [**super-crossposting**](https://github.com/open-microblog/super-crossposting) — Timestamp → delay → translate → crosspost pipeline: OpenTimestamps proof, 7-locale machine translation, and pluggable delivery to Bluesky, GitHub…
+- [**visited**](https://github.com/didvc/visited) — Securely collect browsing history over browsers.
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [News Outlets](#news-outlets)
