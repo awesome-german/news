@@ -99,6 +99,7 @@ Tools and resources specifically designed for German language learners reading n
 - [Langsam gesprochene Nachrichten (DW)](https://www.dw.com/de/deutsch-lernen/nachrichten/s-8030) - Slowly spoken news for learners.
 - [Deutsch Perfekt](https://www.deutsch-perfekt.com/) - Magazine for German learners with current affairs.
 - [Top-Thema mit Vokabeln (DW)](https://www.dw.com/de/deutsch-lernen/top-thema/s-8031) - Weekly news topics with vocabulary.
+- [LingoNews](https://lingonews.app/german/reading-practice) - Daily news written for B1-C1 learners, with difficult words glossed in eight languages. Partly free, full access by subscription.
 - [Lingua.ly](https://lingua.ly/) - Browser extension for reading practice with integrated dictionary.
 - [Readlang](https://readlang.com/) - Web reader tool for foreign language practice.
 - [News in Slow German](https://www.newsinslowgerman.com/) - Weekly news podcast for learners.
