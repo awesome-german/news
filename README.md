@@ -6,15 +6,6 @@ Check out the [German-English Dictionary App for Scientifically-Efficient Modern
 
 *Read this in other languages: [English](README.md), [Deutsch](README.de.md), [日本語](README.ja.md)*
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**histbak**](https://github.com/didvc/histbak) — Scheduled, compressed, optionally encrypted backups of your browsing history, plus a viewer that makes it readable. Local only, no network access…
-- [**super-crossposting**](https://github.com/open-microblog/super-crossposting) — Timestamp → delay → translate → crosspost pipeline: OpenTimestamps proof, 7-locale machine translation, and pluggable delivery to Bluesky, GitHub…
-- [**visited**](https://github.com/didvc/visited) — Securely collect browsing history over browsers.
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [News Outlets](#news-outlets)
@@ -148,6 +139,12 @@ Additional resources for improving German through news consumption:
 - [24h Deutsch](https://www.goethe.de/de/spr/ueb/24h.html) - Goethe-Institut's daily German learning.
 - [Slow German](http://slowgerman.com/) - Podcast series on German culture and current events.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -160,3 +157,22 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ---
 
 **Note:** This list focuses on German-language news sources and tools for reading practice. Quality and reliability of sources may vary, especially for tabloid publications.
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [reading](https://github.com/awesome-german/reading): Articles, short stories, and graded reading materials to enhance comprehension and fluency in German.
+- [podcasts](https://github.com/awesome-german/podcasts): Curated list of the best podcasts to learn, practice, and enjoy German through real conversation and culture.
+- [movies](https://github.com/awesome-german/movies): Top German films and TV series for immersive learning through culture, dialogue, and subtitles.
+- [web-resources](https://github.com/awesome-german/web-resources): Online platforms, databases, and archives for German studies.
+
+<!-- END gh-mutual-linking -->
